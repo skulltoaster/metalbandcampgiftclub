@@ -1,6 +1,6 @@
 # Metal Bandcamp Gift Club
 
-Welcome! We're a collective of metal nerds who enjoy gifting people music from their wishlist.
+Welcome! We're a collective of metal nerds who enjoy gifting people music from their Bandcamp wishlist.
 
 Make sure you have a Fan account on BandCamp:
 https://bandcamp.com/fans
@@ -15,7 +15,7 @@ Check out their Wishlist, hover over an album, and then click the “send as gif
 
 ![Image of Wishlist](https://github.com/skulltoaster/metalbandcampgiftclub/blob/master/wishlist.png)
 
-That's it! That's what #MetalBandcampgiftclub is all about!
+That's what #MetalBandcampgiftclub is all about! Giving people music, and the bands benefit. Win win.
 
 ## Resources
 
