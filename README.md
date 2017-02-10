@@ -17,13 +17,15 @@ Check out their Wishlist, hover over an album, and then click the “send as gif
 
 That's what #MetalBandcampgiftclub is all about! Giving people music, and the bands benefit. Win win.
 
-## Resources
+# Resources
+
+## Social Media
 
 Email seth@metalbandcampgiftclub.com to request an invite to our Slack Channel
 
 Follow on Twitter: https://twitter.com/MetalBCgiftclub
 
-#MetalBandcampgiftclub Birthday Blast
+## Birthday Blast
 
 Send us your birthday (DATE/MONTH) along with your Bandcamp Fan Wishlist URL and we'll Tweet it to our followers.
 
