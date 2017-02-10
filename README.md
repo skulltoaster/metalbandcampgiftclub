@@ -13,6 +13,6 @@ https://bandcamp.com/v3rdict#wishlist
 
 Check out their Wishlist, hover over an album, and then click the “send as gift” link from their wishlist.
 
-![Image of Wishlist](https://metalbandcampwishlist.github.com/images/yaktocat.png)
+![Image of Wishlist](https://github.com/skulltoaster/metalbandcampgiftclub/blob/master/wishlist.png)
 
 I also like adding “#MetalBandcampgiftclub” to the “Send a note to the band” field when making the purchase, so the band sees the love. Happy gifting!
