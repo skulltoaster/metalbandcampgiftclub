@@ -16,3 +16,6 @@ Check out their Wishlist, hover over an album, and then click the “send as gif
 ![Image of Wishlist](https://github.com/skulltoaster/metalbandcampgiftclub/blob/master/wishlist.png)
 
 I also like adding “#MetalBandcampgiftclub” to the “Send a note to the band” field when making the purchase, so the band sees the love. Happy gifting!
+
+![Image of Wishlist](https://github.com/skulltoaster/metalbandcampgiftclub/blob/master/gift.png)
+
