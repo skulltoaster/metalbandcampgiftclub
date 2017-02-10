@@ -23,7 +23,13 @@ Email seth@metalbandcampgiftclub.com to request an invite to our Slack Channel
 
 Follow on Twitter: https://twitter.com/MetalBCgiftclub
 
-DM https://twitter.com/Petkau or email birthday@metalbandcampgiftclub.com your birthday (DATE/MONTH) and your BandCamp Fan Wishlist URL and we'll Tweet your wishlist on your birthday!
+#MetalBandcampgiftclub Birthday Blast
+
+Send us your birthday (DATE/MONTH) along with your Bandcamp Fan Wishlist URL and we'll Tweet it to our followers.
+
+> DM https://twitter.com/Petkau 
+
+> Email: birthday@metalbandcampgiftclub.com
 
 ## Press
 
