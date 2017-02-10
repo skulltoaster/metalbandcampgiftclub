@@ -11,9 +11,8 @@ https://bandcamp.com/sethw/following
 Here is what someone's wishlist looks like:
 https://bandcamp.com/v3rdict#wishlist
 
+Check out their Wishlist, hover over an album, and then click the “send as gift” link from their wishlist.
 
-
-
-check out their Wishlist (here is my friend Jeremiah’s wishlist), and then click the “send as gift” link from their wishlist (this way it fills in the contact info for you).
+![Image of Wishlist](https://metalbandcampwishlist.github.com/images/yaktocat.png)
 
 I also like adding “#MetalBandcampgiftclub” to the “Send a note to the band” field when making the purchase, so the band sees the love. Happy gifting!
